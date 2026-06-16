@@ -1,11 +1,11 @@
 
-# BlissCampIndia
+# CampIndia
 
-Welcome to **BlissCampIndia** – your gateway to exploring the beauty and diversity of India's camping destinations! This repository is dedicated to providing resources, guides, and tools for camping enthusiasts, travelers, and adventurers looking to experience the best of India's natural landscapes.
+Welcome to **CampIndia** – your gateway to exploring the beauty and diversity of India's camping destinations! This repository is dedicated to providing resources, guides, and tools for camping enthusiasts, travelers, and adventurers looking to experience the best of India's natural landscapes.
 
 ## About the Project
 
-BlissCampIndia aims to:
+CampIndia aims to:
 - Curate a comprehensive list of camping sites across India.
 - Provide detailed guides, tips, and itineraries for campers.
 - Share resources for sustainable and responsible camping practices.
@@ -39,15 +39,9 @@ Check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 ## Getting Started
 
 To use this repository:
-1. Clone the repo: `git clone https://github.com/NK2552003/BlissCampIndia.git`
+1. Clone the repo: `git clone https://github.com/NK2552003/CampIndia.git`
 2. Explore the directories for camping spot lists, guides, and resources.
 3. Follow the instructions in the [README](README.md) to set up and contribute.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the content as per the license terms.
 
 ---
 
