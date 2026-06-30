@@ -39,7 +39,7 @@ Check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 ## Getting Started
 
 To use this repository:
-1. Clone the repo: `git clone https://github.com/NK2552003/CampIndia.git`
+1. Clone the repo: `git clone https://github.com/venishRamani/Campindia`
 2. Explore the directories for camping spot lists, guides, and resources.
 3. Follow the instructions in the [README](README.md) to set up and contribute.
 
