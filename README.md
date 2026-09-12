@@ -1,7 +1,10 @@
-
 # CampIndia
 
 Welcome to **CampIndia** – your gateway to exploring the beauty and diversity of India's camping destinations! This repository is dedicated to providing resources, guides, and tools for camping enthusiasts, travelers, and adventurers looking to experience the best of India's natural landscapes.
+
+## You can see live demo:-
+[Camping website](https://venishramani.github.io/CampIndia)
+
 
 ## About the Project
 
@@ -10,11 +13,6 @@ CampIndia aims to:
 - Provide detailed guides, tips, and itineraries for campers.
 - Share resources for sustainable and responsible camping practices.
 - Foster a community of outdoor enthusiasts who love exploring India's wilderness.
-
-
-  
-## You can see live demo:-
-[Camping website](https://venishramani.github.io/CampIndia)
 
 ---
 
